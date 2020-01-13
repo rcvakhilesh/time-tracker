@@ -13,7 +13,7 @@
 <body>
   <h1>Super Simple Example Web Page  - This is title</h1>
   <p>
-    This is a very simple example web page on a JSP. --Venkata--- adding comment
+    This is a very simple example web page on a JSP. --Venkata--- removing comment
   </p>
 </body>
 </html>
